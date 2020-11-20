@@ -1,4 +1,4 @@
-# React Typescript by sample
+# React Typescript by sample modificado por Andrés
 
 [🇪🇸 Versión Español](./readme_es.md)
 
